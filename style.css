@@ -35,7 +35,7 @@ main{
     background-color: #c8e6c8;
     padding: 10px;
     text-align: center;
-    font-family: 'Dancing Script';
+    font-family: 'Aboreto';
     font-size: 13px;
     font-variant: small-caps
 }
@@ -46,14 +46,14 @@ main{
     font-family: sans-serif;
 }
 
-.musician-quotes{
+section{
     display: grid;
     grid-template-rows: auto;
     grid-template-columns: 350px;
     margin-top: 40px;
 }
-.musician-quotes div{
-    background-color: #bcdefb;
+section div{
+    background-color: rgb(133, 133, 170);
     padding: 10px;
     text-align: center;
     font-family: sans-serif;
